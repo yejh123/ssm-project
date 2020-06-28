@@ -1,2 +1,4 @@
 # ssm_project
- ssm初始化
+Spring+SpringMVC+MyBatis整合demo。
+
+2019年12月
